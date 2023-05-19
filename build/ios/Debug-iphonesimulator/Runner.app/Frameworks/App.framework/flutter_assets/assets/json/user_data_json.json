@@ -1,0 +1,23 @@
+{
+  "name": "Chollarasan",
+  "pofile_image": "",
+  "id": "189393093",
+  "appoinments": [
+    {
+      "appoinment_id": "03904940",
+      "appoinment_date": "18-05-2023",
+      "appoinmnt_time": "9:45 AM",
+      "doctor": {
+        "id": "322423532",
+        "name": "Nikki",
+        "about": "Doctors are medical professionals who diagnose, treat, and provide care for patients with various illnesses, injuries, and medical conditions. They play a critical role in the healthcare system, working to improve and maintain the overall health of individuals and communities.",
+        "experience": 1.2,
+        "patients_count": 100,
+        "profile_image": "",
+        "specification": "Heart Specialist",
+        "rating": 4.5,
+        "review_count": 100
+      }
+    }
+  ]
+}
